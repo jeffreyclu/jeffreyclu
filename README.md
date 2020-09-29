@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a former architect (buildings!) turned web developer based in Brooklyn, NY. I specialize in building JavaScript full-stack web applications with React and Express.
+
+I'm currently building React Pinpoint, a utility library for testing React component render times against a user-specified threshold.
+
 <!--
 **jeffreyclu/jeffreyclu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
