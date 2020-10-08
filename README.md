@@ -4,6 +4,8 @@ I'm a former architect (buildings!) turned web developer based in Brooklyn, NY. 
 
 I'm currently building React Pinpoint, a utility library for testing React component render times against a user-specified threshold.
 
+[![Jeffrey's github stats](https://github-readme-stats.vercel.app/api?username=jeffreyclu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jeffreyclu/jeffreyclu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
