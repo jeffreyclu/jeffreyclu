@@ -2,7 +2,9 @@
 
 I'm a former architect (buildings!) turned web developer based in Brooklyn, NY. I specialize in building JavaScript full-stack web applications with React and Express.
 
-I'm currently building React Pinpoint, a utility library for testing React component render times against a user-specified threshold.
+Currently, I'm building [React Pinpoint](https://reactpinpoint.com), a utility library for testing React component render times against a user-specified threshold.
+
+Always open to collaborate! [Drop me a line.](mailto:hi@jeffreyclu.com)
 
 [![Jeffrey's github stats](https://github-readme-stats.vercel.app/api?username=jeffreyclu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyclu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
