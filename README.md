@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a former architect (buildings!) turned web developer based in Brooklyn, NY. I specialize in building JavaScript full-stack web applications with React and Express.
+I'm a former architect (buildings!) turned web developer based in NJ. I specialize in building JavaScript full-stack web applications with React and Express.
 
 Currently, I'm building [React Pinpoint](https://reactpinpoint.com), a utility library for testing React component render times against a user-specified threshold.
 
