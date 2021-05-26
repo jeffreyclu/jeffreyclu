@@ -2,7 +2,7 @@
 
 I'm a former architect (buildings!) turned web developer based in NJ. I specialize in building JavaScript full-stack web applications with React and Express.
 
-Currently, I'm building [Viewport](https://www.viewport.xyz/), a lightweight 3D model viewer and sharer.
+Currently, I'm helping to democratize opportunity at @handshake. I'm also building [Viewport](https://www.viewport.xyz/), a lightweight 3D model viewer and sharer.
 
 Always open to collaborate! [Drop me a line.](mailto:hi@jeffreyclu.com)
 
