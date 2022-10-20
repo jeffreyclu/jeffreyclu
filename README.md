@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a former architect (buildings!) turned web developer based in NJ. I specialize in building JavaScript full-stack web applications with React and Express.
+I'm a former architect (buildings!) turned software engineer based in NJ. I specialize in building JavaScript full-stack web applications with React and Express.
 
 Currently, I'm helping to democratize opportunity at [@handshake](https://github.com/joinhandshake).
 
