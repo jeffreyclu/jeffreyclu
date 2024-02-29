@@ -2,7 +2,7 @@
 
 I'm a former architect (buildings!) turned software engineer based in NJ. I specialize in building JavaScript and TypeScript full-stack web applications with React and Express.
 
-Currently, I'm helping to democratize opportunity at [@handshake](https://github.com/joinhandshake).
+Currently, I'm building canvas tools at https://mural.co/. Previously at Handshake, Goldman Sachs.
 
 Always open to collaborate! [Drop me a line.](mailto:hi@jeffreyclu.com)
 
