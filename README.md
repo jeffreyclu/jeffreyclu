@@ -6,7 +6,9 @@ Currently, I'm building canvas tools at [Mural](https://mural.co/). Previously a
 
 Always open to collaborate! [Drop me a line.](mailto:hi@jeffreyclu.com)
 
-[![Jeffrey's github stats](https://github-readme-stats.vercel.app/api?username=jeffreyclu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+--
+
+[![Jeffrey's github stats](https://github-readme-stats.vercel.app/api?username=jeffreyclu&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyclu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
