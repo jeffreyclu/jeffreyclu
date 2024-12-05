@@ -2,7 +2,7 @@
 
 I'm a former architect (buildings!) turned software engineer based in NJ. I specialize in building JavaScript and TypeScript full-stack web applications with React and Express.
 
-Currently, I'm building canvas tools at [Mural](https://mural.co/). Previously at Handshake, Goldman Sachs.
+Currently, I'm building developer superpowers at [Webflow](https://webflow.com/). Previously at Mural, Handshake, Goldman Sachs.
 
 Always open to collaborate! [Drop me a line.](mailto:hi@jeffreyclu.com)
 
